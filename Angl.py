@@ -1,4 +1,6 @@
 import math
+import webbrowzer 
+webbrowze.open("https://t.me/hrblack") 
 while True:
     x = int(input("enter value(cos):"))
     angle = math.radians(x)
